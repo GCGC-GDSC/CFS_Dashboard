@@ -1,0 +1,52 @@
+.mainInput {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.formInformation {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.formInformation h4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+}
+table {
+  background-color: aliceblue;
+}
+
+.formTable table {
+  width: 60%;
+}
+.formTable table tr {
+  height: 2rem;
+}
+
+.formTable button {
+  width: 30%;
+  margin-left: 35%;
+}
+.Logs-container {
+  border-radius: 5px;
+}
+
+.accordian {
+  background-image: linear-gradient(
+    to top,
+    #f3e7e9 0%,
+    #e3eeff 99%,
+    #e3eeff 100%
+  );
+}
+
+tr {
+  margin-top: 5px;
+  padding-top: 5px;
+  height: 10px;
+}
+.modal_buttons_container-btn-yes:hover {
+  cursor: pointer;
+}
